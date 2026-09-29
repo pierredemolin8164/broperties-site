@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.broperties.be/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.broperties.be/nl.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.broperties.be/en.html</loc><priority>0.9</priority></url>
   <url><loc>https://www.broperties.be/pierres-rouges.html</loc><priority>1.0</priority></url>
+  <url><loc>https://www.broperties.be/pierres-rouges-nl.html</loc><priority>1.0</priority></url>
+  <url><loc>https://www.broperties.be/pierres-rouges-en.html</loc><priority>1.0</priority></url>
   <url><loc>https://www.broperties.be/realisations.html</loc><priority>0.7</priority></url>
+  <url><loc>https://www.broperties.be/realisations-nl.html</loc><priority>0.7</priority></url>
+  <url><loc>https://www.broperties.be/realisations-en.html</loc><priority>0.7</priority></url>
   <url><loc>https://www.broperties.be/equipe.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/equipe-nl.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/equipe-en.html</loc><priority>0.6</priority></url>
   <url><loc>https://www.broperties.be/contact.html</loc><priority>0.7</priority></url>
+  <url><loc>https://www.broperties.be/contact-nl.html</loc><priority>0.7</priority></url>
+  <url><loc>https://www.broperties.be/contact-en.html</loc><priority>0.7</priority></url>
   <url><loc>https://www.broperties.be/alsemberg.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/alsemberg-nl.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/alsemberg-en.html</loc><priority>0.6</priority></url>
   <url><loc>https://www.broperties.be/armures.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/armures-nl.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/armures-en.html</loc><priority>0.6</priority></url>
   <url><loc>https://www.broperties.be/rosendael.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/rosendael-nl.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/rosendael-en.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.broperties.be/wittmann.html</loc><priority>0.5</priority></url>
+  <url><loc>https://www.broperties.be/wittmann-nl.html</loc><priority>0.5</priority></url>
+  <url><loc>https://www.broperties.be/wittmann-en.html</loc><priority>0.5</priority></url>
+  <url><loc>https://www.broperties.be/deschanel.html</loc><priority>0.5</priority></url>
+  <url><loc>https://www.broperties.be/deschanel-nl.html</loc><priority>0.5</priority></url>
+  <url><loc>https://www.broperties.be/deschanel-en.html</loc><priority>0.5</priority></url>
 </urlset>

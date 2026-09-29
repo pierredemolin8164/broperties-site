@@ -127,3 +127,7 @@ footer .fine{border-top:1px solid rgba(255,255,255,.12);padding-top:22px;font-si
   section{padding:52px 0}
   .apt-head,.apt-body{padding-left:20px;padding-right:20px}
 }
+
+.langs{display:flex;gap:10px;align-items:center}
+.langs a{font-size:12px;font-weight:700;letter-spacing:.08em;color:var(--muted)}
+.langs a.on{color:var(--brand)}
